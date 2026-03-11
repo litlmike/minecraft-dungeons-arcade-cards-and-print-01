@@ -5,7 +5,7 @@ Precondition:
     In Windows recommend installing Miniconda and using the Anaconda Prompt to run python and pip: https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe
 
 Python Dependencies:
-    pip install pandas
+    pip install pandas svglib reportlab pillow
 
 Usage:
     python generate_barcodes.py
