@@ -1,10 +1,10 @@
 # Current Card Info
 
-### Information on all currently available Minecraft Dungeons Arcade Cards. Barcodes on cards are in [Code 128](https://en.wikipedia.org/wiki/Code_128) format.
+#### Information on all currently available Minecraft Dungeons Arcade Cards. Barcodes on cards are in [Code 128](https://en.wikipedia.org/wiki/Code_128) format.
 
-#### There is also a printable file, barcodes_output.pdf which should preserve all ratios and measurements when printed at default size.  Included on the PDF are millimeter rulers so you can test to see if a printed document is the right size.
+There is also a printable file, barcodes_output.pdf which should preserve all ratios and measurements when printed at default size.  Included on the PDF are millimeter rulers so you can test to see if a printed document is the right size.
 
-#### All credit to Chris CB9001 for the original code to generate the barcodes.
+**All credit to Chris CB9001 for the original code to generate the barcodes.**
 
 | Card Number | Card Name                 | Barcode Data | Barcode Image                                                                                                                               |
 |-------------|---------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------|
