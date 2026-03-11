@@ -12,10 +12,7 @@ images folder this script should be able to support those without additional upd
 
 Developed under Python 3.13.12.
 
-Place your SVG/raster files in ./barcode_images next to this script.
-
-Precondition:
-    In Windows recommend installing Miniconda and using the Anaconda Prompt to run python and pip: https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe
+Place your SVG/raster files in ./barcode_images next to this script.  This is the default location the SVG files are put when running generate_barcodes.py.
 
 Python Dependencies:
     pip install pandas svglib reportlab pillow
